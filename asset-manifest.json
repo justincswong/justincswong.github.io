@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.56588513.css",
-    "main.js": "/static/js/main.211c8ddf.js",
+    "main.css": "/static/css/main.166668ba.css",
+    "main.js": "/static/js/main.863a91a2.js",
+    "static/media/JJDeLights.png": "/static/media/JJDeLights.74ca3c70b559459fc916.png",
     "static/media/Resume_JustinWong.pdf": "/static/media/Resume_JustinWong.c345aa1ea30977f85ff1.pdf",
     "static/media/Avatar_JustinWong.jpg": "/static/media/Avatar_JustinWong.fbef036bfa4b48d865eb.jpg",
-    "static/media/JJDeLights.png": "/static/media/JJDeLights.ff6a37b371087f03c24a.png",
+    "static/media/COVID19RestaurantLog.png": "/static/media/COVID19RestaurantLog.0f2eb27afae454ba18b3.png",
+    "static/media/SnackTrack.png": "/static/media/SnackTrack.38c867608a2f0d64a7d6.png",
     "index.html": "/index.html",
-    "main.56588513.css.map": "/static/css/main.56588513.css.map",
-    "main.211c8ddf.js.map": "/static/js/main.211c8ddf.js.map"
+    "main.166668ba.css.map": "/static/css/main.166668ba.css.map",
+    "main.863a91a2.js.map": "/static/js/main.863a91a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.56588513.css",
-    "static/js/main.211c8ddf.js"
+    "static/css/main.166668ba.css",
+    "static/js/main.863a91a2.js"
   ]
 }
