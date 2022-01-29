@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b6cfc9e.css",
-    "main.js": "/static/js/main.f5e3e8dd.js",
+    "main.css": "/static/css/main.56588513.css",
+    "main.js": "/static/js/main.211c8ddf.js",
+    "static/media/Resume_JustinWong.pdf": "/static/media/Resume_JustinWong.c345aa1ea30977f85ff1.pdf",
+    "static/media/Avatar_JustinWong.jpg": "/static/media/Avatar_JustinWong.fbef036bfa4b48d865eb.jpg",
+    "static/media/JJDeLights.png": "/static/media/JJDeLights.ff6a37b371087f03c24a.png",
     "index.html": "/index.html",
-    "main.3b6cfc9e.css.map": "/static/css/main.3b6cfc9e.css.map",
-    "main.f5e3e8dd.js.map": "/static/js/main.f5e3e8dd.js.map"
+    "main.56588513.css.map": "/static/css/main.56588513.css.map",
+    "main.211c8ddf.js.map": "/static/js/main.211c8ddf.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b6cfc9e.css",
-    "static/js/main.f5e3e8dd.js"
+    "static/css/main.56588513.css",
+    "static/js/main.211c8ddf.js"
   ]
 }
