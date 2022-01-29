@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.166668ba.css",
-    "main.js": "/static/js/main.cd423bf4.js",
+    "main.css": "/static/css/main.340ebc91.css",
+    "main.js": "/static/js/main.7356e47e.js",
     "static/media/JJDeLights.png": "/static/media/JJDeLights.74ca3c70b559459fc916.png",
     "static/media/Resume_JustinWong.pdf": "/static/media/Resume_JustinWong.0e28ae22d988ab8c92a1.pdf",
     "static/media/Avatar_JustinWong.jpg": "/static/media/Avatar_JustinWong.fbef036bfa4b48d865eb.jpg",
     "static/media/COVID19RestaurantLog.png": "/static/media/COVID19RestaurantLog.0f2eb27afae454ba18b3.png",
     "static/media/SnackTrack.png": "/static/media/SnackTrack.38c867608a2f0d64a7d6.png",
     "index.html": "/index.html",
-    "main.166668ba.css.map": "/static/css/main.166668ba.css.map",
-    "main.cd423bf4.js.map": "/static/js/main.cd423bf4.js.map"
+    "main.340ebc91.css.map": "/static/css/main.340ebc91.css.map",
+    "main.7356e47e.js.map": "/static/js/main.7356e47e.js.map"
   },
   "entrypoints": [
-    "static/css/main.166668ba.css",
-    "static/js/main.cd423bf4.js"
+    "static/css/main.340ebc91.css",
+    "static/js/main.7356e47e.js"
   ]
 }
